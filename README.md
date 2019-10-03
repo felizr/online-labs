@@ -1,8 +1,8 @@
 # team-online-labs
 
-We are working on defining a xAPI profile for online laboratories.
+We are working on defining a xAPI profile for online laboratories. Participants are welcome, 
 
-Steps
+First step is to understand the concept of xAPI profile:
 
 Part One: About xAPI Profiles
 
