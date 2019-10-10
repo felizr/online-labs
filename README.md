@@ -14,4 +14,4 @@ https://github.com/adlnet/xapi-profiles/blob/master/xapi-profiles-structure.md
 
 Part Three: xAPI Profiles Communication and Processing
 
-https://github.com/adlnet/xapi-profiles/blob/master/xapi-profiles-communication.md
+https://github.com/adlnet/xapi-profiles/blob/master/xapi-profiles-communication.md 
